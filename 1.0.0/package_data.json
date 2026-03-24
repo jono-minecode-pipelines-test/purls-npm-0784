@@ -1,0 +1,55 @@
+{
+    "name": "0038_currencies_convertor",
+    "version": "1.0.0",
+    "main": "main.js",
+    "type": "module",
+    "publishConfig": {
+        "access": "public"
+    },
+    "bin": {
+        "0038_currencies_convertor": "main.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "inquirer": "^9.3.2"
+    },
+    "devDependencies": {
+        "@types/inquirer": "^9.0.7"
+    },
+    "_id": "0038_currencies_convertor@1.0.0",
+    "_nodeVersion": "20.11.1",
+    "_npmVersion": "10.2.4",
+    "dist": {
+        "integrity": "sha512-SDpSSVR4qr8eXLgDnBmSdRZUPDyQ6xoNrb5m0sTe7FkjWaVKjOYzUfxKdeyIsbObs6dDVywSCddks7EvTtElGA==",
+        "shasum": "00c68d888aa4c352ac4150d645d518482b9c660a",
+        "tarball": "https://registry.npmjs.org/0038_currencies_convertor/-/0038_currencies_convertor-1.0.0.tgz",
+        "fileCount": 4,
+        "unpackedSize": 15695,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQCcuKTT3cQjV+jsqRWBCIbdBdd3CU/eyozjdhAeVClc3gIgSn50Trj4EIL/1LbmhkCQ2cMajy/XqBvIfmkM1v0Z01k="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "aitech03",
+        "email": "afnanzagq@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "aitech03",
+            "email": "afnanzagq@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/0038_currencies_convertor_1.0.0_1720090190804_0.24235297557492164"
+    },
+    "_hasShrinkwrap": false
+}

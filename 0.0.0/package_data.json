@@ -1,0 +1,41 @@
+{
+    "name": "0.0",
+    "version": "0.0.0",
+    "description": "ready",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "MIT",
+    "_id": "0.0@0.0.0",
+    "_shasum": "62b0187e11da7ef5f648568c756963d0fdffe607",
+    "_from": ".",
+    "_npmVersion": "2.14.12",
+    "_nodeVersion": "4.3.2",
+    "_npmUser": {
+        "name": "spikef",
+        "email": "Spikef@Foxmail.com"
+    },
+    "dist": {
+        "shasum": "62b0187e11da7ef5f648568c756963d0fdffe607",
+        "tarball": "https://registry.npmjs.org/0.0/-/0.0-0.0.0.tgz",
+        "integrity": "sha512-C5Zh2tsWJcj5UEGKW8EJw6yszJc8RdeV2jDZ9qX257ZvZo6OjA0hxsiBPHbRhFlNovOS0Yz4HLtsvGxrJhEEsw==",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIAyLI8w2TBfszuXID/mZXYb7ez4jvi1I3s50pTuJUjyKAiEAjInqEMdW/3UyKG4nwtos0EY8aIoVmQGRwPqMBOlOl5I="
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "spikef",
+            "email": "Spikef@Foxmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "packages-16-east.internal.npmjs.com",
+        "tmp": "tmp/0.0-0.0.0.tgz_1461563004932_0.8684320959728211"
+    }
+}
